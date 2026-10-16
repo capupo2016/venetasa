@@ -41,3 +41,4 @@ keytool -genkey -v -keystore veneTasa-release.keystore -alias veneTasa -keyalg R
 3. Crea un Release (1.0.3) → adjunta VeneTasa.apk
 4. Settings → Pages → servir desde main (root)
 5. La página detectará automáticamente el APK del último release.
+
